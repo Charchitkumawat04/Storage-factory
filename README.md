@@ -13,6 +13,8 @@ For a more in depth blog on working with remix, [read here](https://docs.chain.l
 
 # Thank you!
 
+##These are Details of Patrick COlloions Only/-
+
 If you appreciated this, feel free to follow me or donate!
 
 ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
